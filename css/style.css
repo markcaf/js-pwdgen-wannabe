@@ -1,0 +1,16 @@
+.ms_border_round{
+    border-radius: 30px;
+}
+
+#super_generator .ms_container{
+    max-width: 720px;
+}
+
+#super_generator .ms_pwd_box{
+    border: 1px solid #dee2e6;
+    border-bottom: 5px green solid;
+}
+
+.ms_icons:hover{
+    cursor: pointer;
+}
